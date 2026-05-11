@@ -144,11 +144,6 @@ git commit -m "feat: ..."
 
 | File | Description |
 |------|-------------|
-| [`docs/AGENTS.md`](docs/AGENTS.md) | AI assistant guide and conventions |
-| [`docs/CONVENTIONS.md`](docs/CONVENTIONS.md) | Code style and git conventions |
-| [`docs/TECHNICAL_GUIDE.md`](docs/TECHNICAL_GUIDE.md) | Technical implementation details |
-| [`docs/PROJECT_STRUCTURE.md`](docs/PROJECT_STRUCTURE.md) | Directory and file organization |
-| [`docs/FEATURES.md`](docs/FEATURES.md) | Epics and user stories |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Contribution guidelines |
 | [`CHANGELOG.md`](CHANGELOG.md) | Version history |
 
